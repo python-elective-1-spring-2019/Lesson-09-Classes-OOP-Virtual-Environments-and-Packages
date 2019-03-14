@@ -2,6 +2,6 @@
 
 Your job is to create the folowing application.
 
-[download tic tac toe video clip](src/tic_tac_toe.mov)
+https://youtu.be/d_ssPkgNbZE
 
-Since we today have been working with classes and object, you should of cause create this game in an OOP manner.
+Since we today have been working with classes and objects, you should ofcause create this game in an OOP manner.
