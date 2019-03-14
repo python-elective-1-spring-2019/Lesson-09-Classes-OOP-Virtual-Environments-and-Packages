@@ -2,7 +2,7 @@
 
 Your job is to create the folowing application.
 
-![tic tac toe](src/tic_tac_toe.png)
+![tic tac toe](src/tic_tic_toe.png)
 
 
 https://youtu.be/d_ssPkgNbZE
