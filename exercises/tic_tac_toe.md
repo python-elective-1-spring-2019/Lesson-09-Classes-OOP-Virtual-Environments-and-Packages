@@ -7,8 +7,9 @@ Your job is to create the folowing application.
 
 **https://youtu.be/d_ssPkgNbZE**
 
+## The rules of the games can be found [here](https://en.wikipedia.org/wiki/Tic-tac-toe)
 
 ## OOP
-Since we today have been working with classes and objects, you should ofcause create this game in an OOP manner.  
+Since we today have been working with classes and objects, you should of course create this game in an OOP manner.  
 
 Please improve the game if you can :)  
