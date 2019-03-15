@@ -24,3 +24,6 @@ Agenda 15-03-2019
 
 ## Exercises
 * [Tic Tac Toe](exercises/tic_tac_toe.md)
+
+## Code from today
+[Code](/code_from_today)
